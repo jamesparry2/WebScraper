@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PyhtonWebScrapper", "PyhtonWebScrapper.pyproj", "{93781FC9-EE51-4AB9-B1E5-26143799C8B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93781FC9-EE51-4AB9-B1E5-26143799C8B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93781FC9-EE51-4AB9-B1E5-26143799C8B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48EE4EDA-88FC-48AE-ABB6-AF07ACEF18FB}
+	EndGlobalSection
+EndGlobal
