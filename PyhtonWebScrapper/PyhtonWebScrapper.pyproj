@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>93781fc9-ee51-4ab9-b1e5-26143799c8b9</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>PyhtonWebScrapper.py</StartupFile>
+    <StartupFile>PythonWebScrapper.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,10 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="PyhtonWebScrapper.py" />
+    <Compile Include="HtmlScraperHelper.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="PythonWebScrapper.py" />
     <Compile Include="RequestUrlGetHelper.py">
       <SubType>Code</SubType>
     </Compile>
