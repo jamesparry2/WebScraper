@@ -1,0 +1,20 @@
+{
+    "aTags": [
+        "http://books.toscrape.com",
+        "http://books.toscrape.com",
+        "http://books.toscrape.com",
+        "http://quotes.toscrape.com/",
+        "http://quotes.toscrape.com",
+        "http://quotes.toscrape.com/",
+        "http://quotes.toscrape.com/scroll",
+        "http://quotes.toscrape.com/js",
+        "http://quotes.toscrape.com/tableful",
+        "http://quotes.toscrape.com/login",
+        "http://quotes.toscrape.com/search.aspx",
+        "http://quotes.toscrape.com/random"
+    ],
+    "pTags": [
+        "<p>A <a href=\"http://books.toscrape.com\">fictional bookstore</a> that desperately wants to be scraped. It's a safe place for beginners learning web scraping and for developers validating their scraping technologies as well. Available at: <a href=\"http://books.toscrape.com\">books.toscrape.com</a></p>",
+        "<p><a href=\"http://quotes.toscrape.com/\">A website</a> that lists quotes from famous people. It has many endpoints showing the quotes in many different ways, each of them including new scraping challenges for you, as described below.</p>"
+    ]
+}
