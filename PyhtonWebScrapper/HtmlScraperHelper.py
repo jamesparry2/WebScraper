@@ -4,7 +4,6 @@ def getContentFromHtmlViaDomNode(domNone, html):
         content.append(str(element))
     return content
 
-
 def getContentFromHtmlViaAttribute(domNone, html, htmlAttribute):
     content = []
     for element in html.select(domNone):
